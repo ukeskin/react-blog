@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "sdfsd",
+      "body": "dsfsdf",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "hello ninjas again",
+      "body": "asdadasdaaaaaaaaaaaaaaaa",
+      "author": "mario",
+      "id": 18
+    }
+  ]
+}
